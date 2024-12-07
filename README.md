@@ -1,1 +1,0 @@
-# qds-std.github.io
